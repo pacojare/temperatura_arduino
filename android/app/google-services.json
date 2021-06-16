@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272384498104",
+    "project_id": "medicinas-7c409",
+    "storage_bucket": "medicinas-7c409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272384498104:android:cb15767a6679247b55974d",
+        "android_client_info": {
+          "package_name": "com.example.temporatura_medicina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272384498104-t91978j2kr4kjtbo6b19ir8fb4pii58k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU9MCITAcFxKuvphjAqNa-8-8rinmM15Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272384498104-t91978j2kr4kjtbo6b19ir8fb4pii58k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
